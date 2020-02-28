@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "thebullfrog.net"
+theme = "purehugo"
+Paginate = 10
+disqusShortname = "xxxx"
+
+[params]
+ githubName = "jdjfbnc6626"
